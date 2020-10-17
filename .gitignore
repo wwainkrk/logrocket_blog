@@ -1,1 +1,4 @@
 .idea/
+logrocket_blog/logrocket_blog/__pycache__/
+*/*.sqlite3
+
